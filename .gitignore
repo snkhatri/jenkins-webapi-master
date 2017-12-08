@@ -1,0 +1,25 @@
+# --- Python ---
+*.py[co]
+*.egg
+*.egg-info/
+*#
+.#*
+develop-eggs/
+dist/
+build/
+dropin.cache
+pip-log.txt
+.installed.cfg
+.coverage
+.ropeproject
+tags
+.tox/
+__pycache__/
+htmlcov/
+*,cover
+.cache
+TAGS
+
+docs/_build
+tests/tmp/
+tests/bin/jenkins-cli-persist/JenkinsCLIPersist.class
